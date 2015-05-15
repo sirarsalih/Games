@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\source">
+      <UniqueIdentifier>{6a088b81-2448-42bc-9484-bc93058381bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\include">
+      <UniqueIdentifier>{decea668-ae37-4a3a-9243-b5026b91c501}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\gfx">
+      <UniqueIdentifier>{daa955de-aa82-40c1-a736-e5262f775e70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\checkcollision.cpp">
+      <Filter>Source Files\source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\game.cpp">
+      <Filter>Source Files\source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\main.cpp">
+      <Filter>Source Files\source</Filter>
+    </ClCompile>
+    <ClCompile Include="source\movement.cpp">
+      <Filter>Source Files\source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\checkcollision.h">
+      <Filter>Header Files\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game.h">
+      <Filter>Header Files\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\movement.h">
+      <Filter>Header Files\include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="gfx\ball.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\dummy.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\number1.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\number2.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\number3.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\number4.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\number5.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\number6.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\number7.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\number8.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\number9.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\paddleOne.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\paddleTwo.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\player1win.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+    <Image Include="gfx\player2win.bmp">
+      <Filter>Resource Files\gfx</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
