@@ -1,0 +1,76 @@
+8
+
+dir
+2
+svn+ssh://sirar@www.taffe.no/home/sirar/svn/DAT219_Oblig2/Denne%20m%C3%A5%20%C3%A5pnes%20i%20VS/Blackjack/Blackjack/Properties
+svn+ssh://sirar@www.taffe.no/home/sirar/svn/DAT219_Oblig2
+
+
+
+2008-04-03T13:34:43.124211Z
+2
+sirar
+
+
+svn:special svn:externals svn:needs-lock
+
+AssemblyInfo.cs
+file
+
+
+
+
+2008-01-29T16:08:34.499475Z
+25d424e901ce468ba72233caf2a952f0
+2008-04-03T13:34:43.124211Z
+2
+sirar
+
+Settings.settings
+file
+
+
+
+
+2008-01-29T16:08:34.502475Z
+8c0f00d7d9b0046695a0255f1b11b061
+2008-04-03T13:34:43.124211Z
+2
+sirar
+
+Settings.Designer.cs
+file
+
+
+
+
+2008-01-31T16:54:25.184290Z
+35c94a72172df126191ead95b9774805
+2008-04-03T13:34:43.124211Z
+2
+sirar
+
+Resources.resx
+file
+
+
+
+
+2008-01-29T16:08:34.628475Z
+62bce27355b0af0487a3c939668ccc8f
+2008-04-03T13:34:43.124211Z
+2
+sirar
+
+Resources.Designer.cs
+file
+
+
+
+
+2008-01-31T16:54:24.745290Z
+b4370662b2680f7793756ccfbb6965f1
+2008-04-03T13:34:43.124211Z
+2
+sirar
+

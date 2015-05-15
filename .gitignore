@@ -1,5 +1,8 @@
 Debug
 Release
+bin
+obj
 *.user
 *.opensdf
 *.sdf
+*.suo
