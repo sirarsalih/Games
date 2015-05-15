@@ -1,2 +1,2 @@
 # Games
-My collection of games.
+My implementation of games.
